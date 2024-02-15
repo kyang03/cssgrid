@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(247, 247, 247, 0.753);
     margin: 5px;
     display: grid;
 }
@@ -42,7 +42,7 @@ nav li{
 }
 
 .posttitle{
-    background-color: skyblue;
+    background-color: rgb(85, 190, 231);
     padding: 30px 220px;
     margin: 0;
     margin-top: 5px;
@@ -67,7 +67,7 @@ main{
 }
 
 .ads{
-    background-color: green;
+    background-color: rgb(143, 245, 143);
     padding: 70px 10px;
 }
 
@@ -99,7 +99,7 @@ main{
 }
 
 .img{
-    background-color: yellow;
+    background-color: rgb(235, 235, 135);
 }
 
 footer{
